@@ -1,0 +1,132 @@
+{
+    "Periodo": "2026-02-19 a 2026-03-19",
+    "Total": 322.0,
+    "Gastos": [
+        {
+            "Monto del gasto": 12.5,
+            "Categoria": "comida",
+            "Descripcion": "Almuerzo en restaurante",
+            "Fecha": "2026-03-01"
+        },
+        {
+            "Monto del gasto": 2.8,
+            "Categoria": "transporte",
+            "Descripcion": "Pasaje de bus",
+            "Fecha": "2026-03-01"
+        },
+        {
+            "Monto del gasto": 15.0,
+            "Categoria": "entretenimiento",
+            "Descripcion": "Cine",
+            "Fecha": "2026-03-02"
+        },
+        {
+            "Monto del gasto": 8.2,
+            "Categoria": "otros",
+            "Descripcion": "Compra de cuaderno",
+            "Fecha": "2026-03-02"
+        },
+        {
+            "Monto del gasto": 25.0,
+            "Categoria": "comida",
+            "Descripcion": "Cena con amigos",
+            "Fecha": "2026-03-03"
+        },
+        {
+            "Monto del gasto": 3.5,
+            "Categoria": "transporte",
+            "Descripcion": "Taxi corto",
+            "Fecha": "2026-03-03"
+        },
+        {
+            "Monto del gasto": 50.0,
+            "Categoria": "entretenimiento",
+            "Descripcion": "Concierto",
+            "Fecha": "2026-03-04"
+        },
+        {
+            "Monto del gasto": 6.0,
+            "Categoria": "otros",
+            "Descripcion": "Regalo peque\u00c3\u00b1o",
+            "Fecha": "2026-03-04"
+        },
+        {
+            "Monto del gasto": 10.0,
+            "Categoria": "comida",
+            "Descripcion": "Desayuno",
+            "Fecha": "2026-03-05"
+        },
+        {
+            "Monto del gasto": 1.5,
+            "Categoria": "transporte",
+            "Descripcion": "Metro",
+            "Fecha": "2026-03-05"
+        },
+        {
+            "Monto del gasto": 20.0,
+            "Categoria": "entretenimiento",
+            "Descripcion": "Videojuego",
+            "Fecha": "2026-03-06"
+        },
+        {
+            "Monto del gasto": 12.0,
+            "Categoria": "otros",
+            "Descripcion": "Herramientas",
+            "Fecha": "2026-03-06"
+        },
+        {
+            "Monto del gasto": 18.0,
+            "Categoria": "comida",
+            "Descripcion": "Pizza",
+            "Fecha": "2026-03-07"
+        },
+        {
+            "Monto del gasto": 4.0,
+            "Categoria": "transporte",
+            "Descripcion": "Uber",
+            "Fecha": "2026-03-07"
+        },
+        {
+            "Monto del gasto": 35.0,
+            "Categoria": "entretenimiento",
+            "Descripcion": "Teatro",
+            "Fecha": "2026-03-08"
+        },
+        {
+            "Monto del gasto": 7.5,
+            "Categoria": "otros",
+            "Descripcion": "Art\u00c3\u00adculos de limpieza",
+            "Fecha": "2026-03-08"
+        },
+        {
+            "Monto del gasto": 14.0,
+            "Categoria": "comida",
+            "Descripcion": "Comida r\u00c3\u00a1pida",
+            "Fecha": "2026-03-09"
+        },
+        {
+            "Monto del gasto": 2.0,
+            "Categoria": "transporte",
+            "Descripcion": "Bus interurbano",
+            "Fecha": "2026-03-09"
+        },
+        {
+            "Monto del gasto": 60.0,
+            "Categoria": "entretenimiento",
+            "Descripcion": "Suscripci\u00c3\u00b3n anual",
+            "Fecha": "2026-03-10"
+        },
+        {
+            "Monto del gasto": 5.0,
+            "Categoria": "otros",
+            "Descripcion": "Bater\u00c3\u00adas",
+            "Fecha": "2026-03-10"
+        },
+        {
+            "Monto del gasto": 10.0,
+            "Categoria": "comida",
+            "Descripcion": "N/A",
+            "Fecha": "2026-03-19"
+        }
+    ]
+}
